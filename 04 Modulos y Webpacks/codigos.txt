@@ -1,0 +1,20 @@
+
+CREANDO ARCHIVO DE CONFIGURACION DEL WEBPACK
+
+carpeta princial
+
+crear archivo: webpack.config.js
+insertar:
+
+module.exports ={
+	node: 'development',
+	module: {rules:[
+	
+	]}
+}
+
+abrir la terminal y en la carpeta principal escribir:
+npm i -D html-loader html-webpack-plugin
+
+
+npm i -D css-minimizer-webpack-plugin terser-webpack-plugin

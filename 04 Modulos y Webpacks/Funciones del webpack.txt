@@ -1,0 +1,10 @@
+WebPack
+
+- Gestionar las dependencias
+- Montar servidores de desarrollo y pruebas
+- Cargar módulos
+- Convertir a diferentes formatos
+- Minimizar código
+- Compilar de SASS a CSS
+- Compilar de TS a JS
+- Trabajar con JS moderno
